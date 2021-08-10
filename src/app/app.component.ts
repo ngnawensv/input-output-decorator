@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'input-output-decorator';
+  myInputMessage = 'I am parent component';
+
+  GetChildData(data) {
+    console.log(data);
+ }
 }
