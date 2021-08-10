@@ -3,7 +3,7 @@
   "cli": {
     "analytics": "dc260372-dcfc-4d62-8884-eb134810cec7"
   },
-  "version": 1,
+  "version": 2,
   "newProjectRoot": "projects",
   "projects": {
     "input-output-decorator": {
